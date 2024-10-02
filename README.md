@@ -9,3 +9,5 @@ Run `mvn -Pnative package -DskipTests` to build the native binary
 Run `./target/log4j2-test` to run the binary
 
 The bug will show up in the logs after running this command.
+
+this is a test
